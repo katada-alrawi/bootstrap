@@ -4,6 +4,7 @@
 }
 body{
     font-family: sans-serif;
+
 }
 #nav-bar{
     position: sticky;
@@ -31,4 +32,16 @@ color: #fff;
 .play-btn{
     width: 45px;
     margin: 20px;
+}
+#swimming{
+    color: rgb(65, 116, 217);
+    text-decoration: none;
+   
+}
+.col text-center{
+    width: 250px;
+}
+.cards{
+    padding: 20px;
+    
 }
